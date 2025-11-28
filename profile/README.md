@@ -1,3 +1,5 @@
+![Northern Computer Company Logo](github-logo.png)
+
 # Northern Computer Company
 
 ## About Us
